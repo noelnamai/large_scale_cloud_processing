@@ -18,7 +18,7 @@ As above, first debug your script for this problem using the test file. Once you
 ```
 subject matches '.*business.*'
 ```
-2) Change the join predicate to be subject=subject2
+2) Change the join predicate to be ```subject=subject2```
 
 Otherwise, you will not get any results.
 
